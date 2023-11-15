@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 前端作品集:
 - 微軟官網仿切 https://huang-johnny.github.io/Microsoft-websit-simulation/
 - 色弱小遊戲 https://huang-johnny.github.io/color-weak-game/
-- 天氣小卡 https://huang-johnny.github.io/weatherAPI/
+- 天氣小卡 [https://huang-johnny.github.io/weatherAPI/](https://huang-johnny.github.io/weatherAPI/)
 - 用bootstrap仿切購物網站 https://huang-johnny.github.io/shopping-cart-simulation/
 
